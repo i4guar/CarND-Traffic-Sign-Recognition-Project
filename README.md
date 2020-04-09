@@ -19,15 +19,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./res/training_set_vis.png "Visualization Training set"
-[image10]: ./res/test_set_vis.png "Visualization Test set"
-[image2]: ./res/gray_1.jpg "Grayscaling example 1"
-[image3]: ./res/gray_2.jpg "Grayscaling example 2"
-[img1]: ./traffic_signs/image_2_p.png "Traffic Sign 1"
-[img2]: ./traffic_signs/image_3_p.png "Traffic Sign 2"
-[img3]: ./traffic_signs/image_4_p.png "Traffic Sign 3"
-[img4]: ./traffic_signs/image_5_p.png "Traffic Sign 4"
-[img5]: ./traffic_signs/image_7_p.png "Traffic Sign 5"
+[image1]: ./res/training_set_vis.jpg "Visualization Training set"
+[image10]: ./res/test_set_vis.jpg "Visualization Test set"
+[image2]: ./res/gray_1.png "Grayscaling example 1"
+[image3]: ./res/gray_2.png "Grayscaling example 2"
+[img1]: ./traffic_signs_web/image_2_p.png "Traffic Sign 1"
+[img2]: ./traffic_signs_web/image_3_p.png "Traffic Sign 2"
+[img3]: ./traffic_signs_web/image_4_p.png "Traffic Sign 3"
+[img4]: ./traffic_signs_web/image_5_p.png "Traffic Sign 4"
+[img5]: ./traffic_signs_web/image_7_p.png "Traffic Sign 5"
 
 ## Rubric Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
